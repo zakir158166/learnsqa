@@ -1,0 +1,2 @@
+# learnsqa
+Automation training course
